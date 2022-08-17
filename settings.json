@@ -1,0 +1,51 @@
+{
+    "settings_list": [
+        {
+            "path": "C:/Users/DELL/Desktop/test_folder_structure",
+            "folder_name": "Practical Files",
+            "keywords": [
+                "_os",
+                "_test_os"
+            ],
+            "active": "false"
+        },
+        {
+            "path": "C:\\Users\\DELL\\Desktop\\test_folder_structure",
+            "folder_name": "COA_lab",
+            "keywords": [
+                "mpl"
+            ],
+            "active": "true"
+        },
+        {
+            "path": "C:/Users/DELL/Desktop/test_folder_structure",
+            "category": "AUDIO",
+            "folder_name": "Chill Music folder",
+            "active": "false"
+        },
+        {
+            "path": "C:\\Users\\DELL\\Desktop\\test_folder_structure",
+            "category": "DOCUMENT",
+            "folder_name": "Something Important",
+            "active": "true"
+        },
+        {
+            "path": "C:\\Users\\DELL\\Desktop\\test_folder_structure",
+            "category": "VIDEOS",
+            "folder_name": "Videos",
+            "active": "true"
+        },
+        {
+            "path": "C:\\Users\\DELL\\Desktop\\test_folder_structure",
+            "category": "IMAGES",
+            "folder_name": "Images",
+            "active": "true"
+        },
+        {
+            "path": "C:\\Users\\DELL\\Desktop\\test_folder_structure",
+            "category": "EXEC",
+            "folder_name": "Executables files",
+            "active": "true"
+        }
+    ]
+}
